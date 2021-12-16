@@ -17,4 +17,4 @@ IMPLEMENTATION OF ABSTRACT CLASS
 		AbstractClass abClass = new AbsDemo();
 		abClass.help();
 	}
-}}
+}
